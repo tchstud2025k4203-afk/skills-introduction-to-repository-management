@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @tchstud2025k4203-afk
+/src/backend/database.py      @tchstud2025k4203-afk
+/src/backend/routers/auth.py  @tchstud2025k4203-afk
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @tchstud2025k4203-afk
